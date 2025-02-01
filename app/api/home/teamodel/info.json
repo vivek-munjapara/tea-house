@@ -1,0 +1,22 @@
+{
+	"teamodal": {
+		"sectitle": "Tea is a drink of <span class='text-white'>health</span> and <span class='text-white'>beauty</span>",
+		"secsubtitle": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit",
+		"benifits": [{
+				"li": "Great tea assortment"
+			},
+			{
+				"li": "Spices & additives"
+			},
+			{
+				"li": "Unique accessories"
+			},
+			{
+				"li": "Good for health & beauty"
+			}
+		],
+		"seccta": "Explore More",
+		"ctalink": "#",
+		"medialink": "https://www.youtube.com/embed/XsI9F3n-Bog?controls=0"
+	}
+}

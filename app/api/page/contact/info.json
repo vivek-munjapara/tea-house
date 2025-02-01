@@ -1,0 +1,18 @@
+{
+	"contactpage": {
+		"secname": "Contact Us",
+		"sectitle": "If You Have Any Query, Please Contact Us",
+		"formtitle": "Write Your Query",
+		"formdisc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"formdata" :[
+			{
+				"id": 1,
+				"name": "cerulean",
+				"email": "test@email.com",
+				"subject": "subject here",
+				"message": "message here"
+			}
+		]
+
+	}
+}

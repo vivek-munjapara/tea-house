@@ -1,0 +1,15 @@
+{
+	"slideitem": [{
+			"toptitle": "Welcome to <strong class='text-dark'>TEA House</strong>",
+			"slidetitle": "Organic & Quality Tea Production",
+			"buttontxt": "Explore one",
+			"slideimg": "/carousel-1.jpg"
+		},
+		{
+			"toptitle": "Welcome to <strong class='text-dark'>TEA House</strong>",
+			"slidetitle": "Organic & Quality Tea Production",
+			"buttontxt": "Explore Two",
+			"slideimg": "/carousel-2.jpg"
+		}
+	]
+}

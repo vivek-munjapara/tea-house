@@ -1,0 +1,91 @@
+{
+	"footer": {
+		"one": {
+			"title": "Our Office",
+			"contact": [
+				{
+					"directory": "123 Street, New York, USA",
+					"icon": "<FaMapMarkerAlt />"
+				},
+				{
+					"directory": "123-456-7890",
+					"link": "tel:+123-456-7890",
+					"icon": "<FaPhone />"
+				},
+				{
+					"directory": "info@example.com",
+					"link": "mailto:info@example.com",
+					"icon": "<FaEnvelope />"
+				}
+			],
+			"social": [
+				{
+					"icon": "<FaTwitter />",
+					"link": "https://twitter.com"
+				},
+				{
+					"icon": "<FaFacebook />",
+					"link": "https://facebook.com"
+				},
+				{
+					"icon": "<FaYoutube />",
+					"link": "https://youtube.com"
+				},
+				{
+					"icon": "<FaLinkedinIn />",
+					"link": "https://linked.com"
+				}
+			]
+		},
+		"two": {
+			"title": "Quick Links",
+			"links": [
+				{
+					"name": "about us",
+					"url": "/about"
+				},
+				{
+					"name": "contat us",
+					"url": "/contact"
+				},
+				{
+					"name": "Our service",
+					"url": "/products"
+				},
+				{
+					"name": "Terms and conditions",
+					"url": "/trems-conditions"
+				},
+				{
+					"name": "support",
+					"url": "/contact"
+				}
+			]
+		},
+		"three": {
+			"title": "Business Hours",
+			"timing": [
+				{
+					"day": "Monday - Friday",
+					"time": "09:00 - 07:00"
+				},
+				{
+					"day": "Saturday",
+					"time": "09:00 - 12:00"
+				},
+				{
+					"day": "Sunday",
+					"time": "closed"
+				}
+			]
+		},
+		"four": {
+			"title": "Newsletter",
+			"discription": "Dolor amet sit justo amet elitr clita ipsum elitr est."
+		},
+		"copy": {
+			"title": "©Tea House, All Right Reserved.",
+			"design": "Designed By"
+		}
+	}
+}

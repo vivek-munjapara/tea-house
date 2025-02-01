@@ -1,0 +1,34 @@
+{
+  "aboutpage": {
+    "pagename": "About Us",
+    "pagebrad": "About"
+  },
+  "productpage": {
+    "pagename": "Products",
+    "pagebrad": "Products"
+  },
+  "storepage": {
+    "pagename": "Tea Store",
+    "pagebrad": "Store"
+  },
+  "featurespage": {
+    "pagename": "Features",
+    "pagebrad": "Features"
+  },
+  "articlepage": {
+    "pagename": "Article",
+    "pagebrad": "Article"
+  },
+  "testimonialpage": {
+    "pagename": "Testimonial",
+    "pagebrad": "Testimonial"
+  },
+  "errorpage": {
+    "pagename": "404 Error",
+    "pagebrad": "404 Error"
+  },
+  "contactpage": {
+    "pagename": "Contact Us",
+    "pagebrad": "Contact"
+  }
+}

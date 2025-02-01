@@ -1,0 +1,36 @@
+{
+	"abouthome_media": [{
+			"boximg": [{
+					"mediaimg": "/about-1.jpg"
+				},
+				{
+					"mediaimg": "/about-3.jpg"
+				}
+			]
+		},
+		{
+			"boximg": [{
+					"mediaimg": "/about-4.jpg"
+				},
+				{
+					"mediaimg": "/about-2.jpg"
+				}
+			]
+		}
+	],
+	"abouthome_info": {
+		"secname": "About Us",
+		"sectitle": "The success history of TEA House in 25 years",
+		"aboutitem": [{
+				"aboutitemtitle": "Our tea is one of the most popular drinks in the world",
+				"aboutitemtxt": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit",
+				"aboutitemimg": "/about-5.jpg"
+			},
+			{
+				"aboutitemtitle": "Daily use of a cup of tea is good for your health",
+				"aboutitemtxt": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit",
+				"aboutitemimg": "/about-6.jpg"
+			}
+		]
+	}
+}

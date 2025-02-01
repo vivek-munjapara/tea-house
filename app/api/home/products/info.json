@@ -1,0 +1,32 @@
+{
+	"products": {
+		"secname": "Our Products",
+		"sectitle": "Tea has a complex positive effect on the body",
+		"secbg" : "/product-bg.png",
+		"productitems": [{
+				"media": "/product-4.jpg",
+				"title": "Organic Tea",
+				"discription": "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+				"link": "#"
+			},
+			{
+				"media": "/product-1.jpg",
+				"title": "Green Tea",
+				"discription": "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+				"link": "#"
+			},
+			{
+				"media": "/product-2.jpg",
+				"title": "Black Tea",
+				"discription": "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+				"link": "#"
+			},
+			{
+				"media": "/product-4.jpg",
+				"title": "Organic Tea",
+				"discription": "Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum",
+				"link": "#"
+			}
+		]
+	}
+}

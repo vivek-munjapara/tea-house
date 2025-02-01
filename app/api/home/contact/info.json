@@ -1,0 +1,27 @@
+{
+	"contact": {
+		"secname": "Contact Us",
+		"sectitle": "Contact us right now",
+		"secsubtitle": "Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo",
+		"channel": [{
+				"first": "info@example.com",
+				"onelink": "mailto:info@example.com",
+				"second": "support@example.com",
+				"twolink": "mailto:support@example.com",
+				"icon": "<FaEnvelope />"
+			},
+			{
+				"first": "+012 345 67890",
+				"onelink": "tel:+01234567890",
+				"second": "+012 345 67890",
+				"twolink": "tel:+01234567890",
+				"icon": "<FaPhone />"
+			},
+			{
+				"first": "123 Street",
+				"second": "New York, USA",
+				"icon": "<FaMapMarkerAlt />"
+			}
+		]
+	}
+}
